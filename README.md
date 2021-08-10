@@ -3,6 +3,8 @@
 - Practice redirection and shell script
 
 ## Description
+![intro](https://github.com/lyz508/cdex/blob/master/repo/cdex_intro.gif)
+
 1. cdex set <existing paths>
 	- set path chosen to cdex target
 	- flag: -s
