@@ -3,7 +3,7 @@
 - Practice redirection and shell script
 
 ## Description
-![intro](https://github.com/lyz508/cdex/blob/master/repo/cdex_intro.gif)
+![intro](https://github.com/lyz508/cdex/blob/master/repo/cdex_update_2021_8_18.gif)
 
 1. cdex set <existing paths>
 	- set path chosen to cdex target
@@ -31,3 +31,12 @@
 - try write .cpp edition, remove some command in shell scripts
 	- still slow
 - about 0.5s for a command
+	- ![scale_intro](https://github.com/lyz508/cdex/blob/master/repo/cdex_intro.gif)
+- (2021.8.18) change to WSL 2
+	- ![intro](https://github.com/lyz508/cdex/blob/master/repo/cdex_update_2021_8_18.gif)
+
+## Updation
+### 2021.8.18
+- changed Linux distro & version of WSL to 2
+	- have big speedup on **cdex**
+- renew on introduction
