@@ -3,7 +3,7 @@
 source ~/.zshrc
 
 now=`pwd`
-file_path="/home/yzlin/Shells/cdex/ChangeExistedDir.py"
+file_path="/home/yzlin/Shells/cdex/scripts/ChangeExistedDir.py"
 recover="/home/yzlin/Shells/cdex/recover"
 action="/home/yzlin/Shells/cdex/action"
 pyerr_tmp="/home/yzlin/Shells/cdex/pyerr.tmp"
